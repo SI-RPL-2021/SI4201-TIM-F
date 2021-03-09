@@ -5,4 +5,10 @@ Jonathan Bonar
 Achmad Husein Mulya Wardana NH
 Wika Fajriah R
 
+<<<<<<< HEAD
 "Ekornya yang kemerahan harus dipotong sebelum dia berangkat ke Smeltings."
+=======
+Harry menghabiskan waktu di kamarnya, hanya ditemani burung hantunya. Dia
+memutuskan menamai burung hantunya Hedwig, nama yang ditemukannya dalam buku
+Sejarah Sihir.
+>>>>>>> 7ad841cba8cebcfc6383b818779ecfcb11b90462
